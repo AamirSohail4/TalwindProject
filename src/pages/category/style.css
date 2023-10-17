@@ -1,0 +1,36 @@
+.main-layout {
+    padding: 20px;
+}
+.home-top-category {
+    background-color: #fbfbfb;
+    text-transform: capitalize;
+    padding: 25px 0px;
+}
+.Category-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+.Category-card {
+    width: 15%;
+    background: white;
+    text-align: center;
+    text-transform: capitalize;
+}
+.head-container {
+    text-align: center;
+    padding: 20px 0px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.cardinfo h3 {
+    margin: 20px 0px;
+}
+.Category-card {
+    width: 15%;
+    background: white;
+    text-align: center;
+    border: 1px solid rgb(247 233 233);
+    text-transform: capitalize;
+}

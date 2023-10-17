@@ -1,0 +1,29 @@
+.navbar {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #f9f6f6;
+    align-items: center;
+}
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-left  ul {
+    display: flex;
+    gap: 37px;
+    font-size: 20px;
+    font-family: math;
+}
+.social-icon {
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+}
+.Logo {
+    display: flex;
+    align-items: center;
+    color: green;
+}

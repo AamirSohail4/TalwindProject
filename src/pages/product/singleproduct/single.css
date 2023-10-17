@@ -1,0 +1,35 @@
+.single-product-container {
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #edebef;
+}
+.single-product-title {
+    padding: 30px 0px;
+    font-size: 30px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.product-detail-container {
+    display: flex;
+}
+.product-img-card {
+    margin: auto;
+}
+.product-detail-leftsid {
+    width: 50%;
+    border: 1px solid rgb(247 240 240);
+    display: flex;
+    align-items: center;
+}
+.product-category-btn {
+    height: 50px;
+    width: 100px;
+    background-color: #108d53;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 35px 0px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
